@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是 ChenWang，开源驱动，创造价值；坦诚清晰，快速失败；让复杂可计算。
+我是王辰，开源驱动，创造价值；坦诚清晰，快速失败；让复杂可计算。
 
 [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=celanwang)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
