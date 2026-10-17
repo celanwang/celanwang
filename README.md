@@ -25,9 +25,9 @@
 
 **Open Source**
 
-**Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)<br/>
-**ByteDance** Open Source Contributor — [Eino](https://github.com/cloudwego/eino)<br/>
-**Tencent** Open Source Contributor — [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go)
+**Alibaba** Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)<br/>
+**ByteDance** Contributor — [Eino](https://github.com/cloudwego/eino)<br/>
+**Tencent** Contributor — [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go)
 
 </td>
 </tr>
