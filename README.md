@@ -1,6 +1,4 @@
-### Hi there 👋
-我是王辰，原创来自持续改进的创造，创造来自喜欢的想法。
-
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=celanwang)](https://github.com/pranesh-2005/github-readme-stats-fast)
-
-欢迎来到我的 Github 主页。
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Chen+Wang.+Agentic+Engineer." alt="Hi"/>
+  <p><s>human || ai</s> → <strong>human && ai</strong></p>
+</div>
