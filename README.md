@@ -4,7 +4,10 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on intelligence, artificial & human.</strong>
   </p>
+  <sub><i>Models improve by loops — and so do the engineers who build them. I live in the loop I engineer. Alignment runs both ways: I align models to humans, and myself to models. Two learners, one recursive path, renewing each other — day after day.</i></sub>
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -29,3 +32,4 @@
 </td>
 </tr>
 </table>
+
