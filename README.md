@@ -10,16 +10,22 @@
 <tr>
 <td valign="top" width="50%">
 
-#### Work Experience
-<strong>Tencent</strong> -- IEG Public Technology Line Tech Team<br/>
-<strong>Baidu</strong> -- Smart Living Group Education Tech Team<br/>
-<strong>Momenta</strong> -- Robo Autonomous Driving Tech Team<br/>
-<strong>DP Technology</strong> -- AI4S Bohr Space Station Tech Team
+**Work Experience**
+
+**Tencent** -- IEG Public Technology Line Tech Team<br/>
+**Baidu** -- Smart Living Group Education Tech Team<br/>
+**Momenta** -- Robo Autonomous Driving Tech Team<br/>
+**DP Technology** -- Bohr Space Station AI4S Tech Team
 
 </td>
 <td valign="top" width="48%">
 
-#### Open Source
-**Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)
-**ByteDance** Open Source Contributor — [Eino](https://github.com/cloudwego/eino)
+**Open Source**
+
+**Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)<br/>
+**ByteDance** Open Source Contributor — [Eino](https://github.com/cloudwego/eino)<br/>
 **Tencent** Open Source Contributor — [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go)
+
+</td>
+</tr>
+</table>
