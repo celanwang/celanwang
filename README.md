@@ -9,27 +9,6 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-
-**Work Experience**
-
-**Tencent** -- IEG Public Technology Line Tech Team<br/>
-**Baidu** -- Smart Living Group Education Tech Team<br/>
-**Momenta** -- Robo Autonomous Driving Tech Team<br/>
-**DP Technology** -- Bohr Space Station AI4S Tech Team
-
-</td>
-<td valign="top" width="48%">
-
-**Open Source**
-
-**Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)<br/>
-**ByteDance** Open Source Contributor — [Eino](https://github.com/cloudwego/eino)<br/>
-**Tencent** Open Source Contributor — [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go)
-
-</td>
-</tr>
-</table>
-
+| **Work Experience** | **Open Source** |
+| --- | --- |
+| **Tencent** -- IEG Public Technology Line Tech Team<br/>**Baidu** -- Smart Living Group Education Tech Team<br/>**Momenta** -- Robo Autonomous Driving Tech Team<br/>**DP Technology** -- Bohr Space Station AI4S Tech Team | **Alibaba** Open Source Contributor — [AgentScope](https://github.com/agentscope-ai/agentscope-go) · [ReMe](https://github.com/agentscope-ai/ReMe)<br/>**ByteDance** Open Source Contributor — [Eino](https://github.com/cloudwego/eino)<br/>**Tencent** Open Source Contributor — [tRPC-Agent-Go](https://github.com/trpc-group/trpc-agent-go) |
