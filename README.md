@@ -9,4 +9,4 @@
 
 <br/>
 
-<p align="center"><img src="experience.svg" width="640" alt="Work Experience — Tencent · Baidu · Momenta · DP Technology; Open Source — AgentScope · ReMe · Eino · tRPC-Agent-Go"/></p>
+<p align="center"><img src="experience.svg" width="790" alt="Work Experience — Tencent · Baidu · Momenta · DP Technology; Open Source — AgentScope · ReMe · Eino · tRPC-Agent-Go"/></p>
