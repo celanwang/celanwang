@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="896" height="168" viewBox="0 0 896 168">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="128" viewBox="0 0 640 128">
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
-    .head { font-size: 16px; font-weight: 600; fill: #1f2328; }
-    .co { font-size: 15px; font-weight: 600; fill: #1f2328; }
-    .desc { font-size: 15px; fill: #59636e; }
+    .head { font-size: 14px; font-weight: 600; fill: #1f2328; }
+    .co { font-size: 13px; font-weight: 600; fill: #1f2328; }
+    .desc { font-size: 13px; fill: #59636e; }
     @media (prefers-color-scheme: dark) {
       .head, .co { fill: #f0f6fc; }
       .desc { fill: #9198a1; }
     }
   </style>
 
-  <text class="head" x="0" y="22">Work Experience</text>
-  <text x="0" y="56"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— IEG Public Technology Line</tspan></text>
-  <text x="0" y="88"><tspan class="co">Baidu</tspan><tspan class="desc" dx="8">— Smart Living Group Education</tspan></text>
-  <text x="0" y="120"><tspan class="co">Momenta</tspan><tspan class="desc" dx="8">— Robo Autonomous Driving</tspan></text>
-  <text x="0" y="152"><tspan class="co">DP Technology</tspan><tspan class="desc" dx="8">— Bohr Space Station AI4S</tspan></text>
+  <text class="head" x="62" y="16">Work Experience</text>
+  <text x="62" y="42"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— IEG Public Technology Line</tspan></text>
+  <text x="62" y="66"><tspan class="co">Baidu</tspan><tspan class="desc" dx="8">— Smart Living Group Education</tspan></text>
+  <text x="62" y="90"><tspan class="co">Momenta</tspan><tspan class="desc" dx="8">— Robo Autonomous Driving</tspan></text>
+  <text x="62" y="114"><tspan class="co">DP Technology</tspan><tspan class="desc" dx="8">— Bohr Space Station AI4S</tspan></text>
 
-  <text class="head" x="460" y="22">Open Source</text>
-  <text x="460" y="56"><tspan class="co">Alibaba</tspan><tspan class="desc" dx="8">— AgentScope · ReMe</tspan></text>
-  <text x="460" y="88"><tspan class="co">ByteDance</tspan><tspan class="desc" dx="8">— Eino</tspan></text>
-  <text x="460" y="120"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— tRPC-Agent-Go</tspan></text>
+  <text class="head" x="392" y="16">Open Source</text>
+  <text x="392" y="42"><tspan class="co">Alibaba</tspan><tspan class="desc" dx="8">— AgentScope · ReMe</tspan></text>
+  <text x="392" y="66"><tspan class="co">ByteDance</tspan><tspan class="desc" dx="8">— Eino</tspan></text>
+  <text x="392" y="90"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— tRPC-Agent-Go</tspan></text>
 </svg>
