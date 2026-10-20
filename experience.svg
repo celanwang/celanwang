@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="168" viewBox="0 0 672 168">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .head { font-size: 16px; font-weight: 600; fill: #1f2328; }
+    .co { font-size: 15px; font-weight: 600; fill: #1f2328; }
+    .desc { font-size: 15px; fill: #59636e; }
+    @media (prefers-color-scheme: dark) {
+      .head, .co { fill: #f0f6fc; }
+      .desc { fill: #9198a1; }
+    }
+  </style>
+
+  <text class="head" x="0" y="22">Work Experience</text>
+  <text x="0" y="56"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— IEG Public Technology Line</tspan></text>
+  <text x="0" y="88"><tspan class="co">Baidu</tspan><tspan class="desc" dx="8">— Smart Living Group Education</tspan></text>
+  <text x="0" y="120"><tspan class="co">Momenta</tspan><tspan class="desc" dx="8">— Robo Autonomous Driving</tspan></text>
+  <text x="0" y="152"><tspan class="co">DP Technology</tspan><tspan class="desc" dx="8">— Bohr Space Station AI4S</tspan></text>
+
+  <text class="head" x="344" y="22">Open Source</text>
+  <text x="344" y="56"><tspan class="co">Alibaba</tspan><tspan class="desc" dx="8">— AgentScope · ReMe</tspan></text>
+  <text x="344" y="88"><tspan class="co">ByteDance</tspan><tspan class="desc" dx="8">— Eino</tspan></text>
+  <text x="344" y="120"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— tRPC-Agent-Go</tspan></text>
+</svg>
