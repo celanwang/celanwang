@@ -10,14 +10,14 @@
     }
   </style>
 
-  <text class="head" x="62" y="16">Work Experience</text>
-  <text x="62" y="42"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— IEG Public Technology Line</tspan></text>
-  <text x="62" y="66"><tspan class="co">Baidu</tspan><tspan class="desc" dx="8">— Smart Living Group Education</tspan></text>
-  <text x="62" y="90"><tspan class="co">Momenta</tspan><tspan class="desc" dx="8">— Robo Autonomous Driving</tspan></text>
-  <text x="62" y="114"><tspan class="co">DP Technology</tspan><tspan class="desc" dx="8">— Bohr Space Station AI4S</tspan></text>
+  <text class="head" x="34" y="16">Work Experience</text>
+  <text x="34" y="42"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— IEG Public Technology Line Tech Team</tspan></text>
+  <text x="34" y="66"><tspan class="co">Baidu</tspan><tspan class="desc" dx="8">— Smart Living Group Education Tech Team</tspan></text>
+  <text x="34" y="90"><tspan class="co">Momenta</tspan><tspan class="desc" dx="8">— Robo Autonomous Driving Tech Team</tspan></text>
+  <text x="34" y="114"><tspan class="co">DP Technology</tspan><tspan class="desc" dx="8">— Bohr Space Station AI4S Tech Team</tspan></text>
 
-  <text class="head" x="392" y="16">Open Source</text>
-  <text x="392" y="42"><tspan class="co">Alibaba</tspan><tspan class="desc" dx="8">— AgentScope · ReMe</tspan></text>
-  <text x="392" y="66"><tspan class="co">ByteDance</tspan><tspan class="desc" dx="8">— Eino</tspan></text>
-  <text x="392" y="90"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— tRPC-Agent-Go</tspan></text>
+  <text class="head" x="421" y="16">Open Source</text>
+  <text x="421" y="42"><tspan class="co">Alibaba</tspan><tspan class="desc" dx="8">— AgentScope · ReMe</tspan></text>
+  <text x="421" y="66"><tspan class="co">ByteDance</tspan><tspan class="desc" dx="8">— Eino</tspan></text>
+  <text x="421" y="90"><tspan class="co">Tencent</tspan><tspan class="desc" dx="8">— tRPC-Agent-Go</tspan></text>
 </svg>
